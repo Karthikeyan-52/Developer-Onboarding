@@ -1,0 +1,7 @@
+project_id = "xojfwbhloetatqkhabfb"
+
+[functions.fetch-github-repo]
+verify_jwt = false
+
+[functions.summarize-repo]
+verify_jwt = false
